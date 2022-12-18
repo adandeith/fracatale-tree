@@ -20,7 +20,7 @@ nbGens=0 #on demande ensuite à l'utilisateur de choisir un chiffre
 epaisseur = 20
 step = 85
 angle = lambda: randint(0, 45) #crée une minie fonction, l'angle sera différent à chaque appel
-color =[0.35, 0.2, 0.0]
+color =[0.37, 0.1, 0.0]
 stack=[]
 
 
